@@ -5,7 +5,7 @@ At the moment I am learning Java for Web development and looking for a Junior Ja
 - Forth year student at [Higher School of Economics](https://www.hse.ru/en/), majoring in Business Informatics, 2019 - 2023
 - Learning Java at [Hexlet.io](https://hexlet.io/pages/about), 2022 - 2023
 
-### Work expirience:
+### Work expуrience:
 - [Ozon PLC](https://corp.ozon.com/), the largest russian e-commerce company
     - Middle Data Analyst, since August 2022
     - Junior Data Analyst, November 2021 - August 2022
