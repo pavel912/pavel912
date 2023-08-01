@@ -1,30 +1,33 @@
 ## Hi! My name is Pavel, I am from Moscow, Russia.
-At the moment I am learning Java for Web development and looking for a Junior Java Developer position.
+At the moment I am looking for a job or internship in  Java Backend development.
 
 ### Education:
-- Forth year student at [Higher School of Economics](https://www.hse.ru/en/), majoring in Business Informatics, 2019 - 2023
-- Learning Java at [Hexlet.io](https://hexlet.io/pages/about), 2022 - 2023
+- Bachelor's degree in Business Informatics at [Higher School of Economics](https://www.hse.ru/en/), 2019 - 2023
+- Learned Java at [Hexlet.io](https://hexlet.io/pages/about), 2022 - 2023
 
 ### Work experience:
 - [Ozon PLC](https://corp.ozon.com/), the largest russian e-commerce company
-    - Middle Data Analyst, since August 2022
+    - Middle Data Analyst, August 2022 - July 2023
     - Junior Data Analyst, November 2021 - August 2022
     - Intern Data Analyst, July 2021 - November 2021
 
 ### Projects:
-- [Brain Games](https://github.com/pavel912/java-project-lvl1) (Java)
-- [JSON and YAML files comparator](https://github.com/pavel912/java-project-71) (Java)
-- [Data Validator](https://github.com/pavel912/java-project-78) (Java)
-- PSKK platform (Python)
+- [JSON and YAML files comparator](https://github.com/pavel912/file_comparator) (Java)
+- [Data Validator](https://github.com/pavel912/data_validater) (Java)
+- [Task Manager](https://github.com/pavel912/task_manager) (Java, Spring)
+- [Web Pages Analyzer](https://github.com/pavel912/web_analyzer) (Java, Javalin)
+- [Library Management System (In progress)](https://github.com/pavel912/library) (Java, Spring)
+- PSKK platform (Python, Flask)
     - [Repository](https://github.com/pavel912/pskk)
     - [Project Page](https://pskk.hse.ru/)
 
 ### Hard skills:
 - Java
-    - Stream API
+    - Spring
+    - Hibernate
     - Javalin
-    - Ebean ORM
     - Thymeleaf
+    - Gradle
     - Tests
 - Python
     - Flask
