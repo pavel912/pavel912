@@ -12,9 +12,8 @@ At the moment I am looking for a job or internship as Backend Software Engineer.
     - Research Assistant, July 2024 - July 2025
     - Developed a tool in Python for formal verifivation and repair of time-critical systems
 - [Ozon PLC](https://corp.ozon.com/), the largest russian e-commerce company
-    - Developer-Analyst, July 2021 - July 2023
-    - Developed analytic system for middle and high management using Python and SQL
-    - Developed Machine Learning models for fraud detection using Python
+    - Junoir Backend Software Engineer, July 2022 - July 2023
+    - Developed RESTful API with Java Spring Framework and PostgreSQL
 
 ### Projects:
 - [JSON and YAML files comparator](https://github.com/pavel912/file_comparator) (Java)
