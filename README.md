@@ -15,15 +15,17 @@ At the moment I am looking for a job or internship as Backend Software Engineer.
     - Junoir Backend Software Engineer, July 2022 - July 2023
     - Developed RESTful API with Java Spring Framework and PostgreSQL
 
-### Projects:
-- [JSON and YAML files comparator](https://github.com/pavel912/file_comparator) (Java)
-- [Data Validator](https://github.com/pavel912/data_validater) (Java)
-- [Task Manager](https://github.com/pavel912/task_manager) (Java, Spring)
-- [Web Pages Analyzer](https://github.com/pavel912/web_analyzer) (Java, Javalin)
-- [Library Management System (In progress)](https://github.com/pavel912/library) (Java, Spring)
-- PSKK platform (Python, Flask)
-    - [Repository](https://github.com/pavel912/pskk)
-    - [Project Page](https://pskk.hse.ru/)
+### Selected Projects:
+-Web Applications / APIs:
+    - [Logistics Management System (In progress)](https://github.com/pavel912/LogaRithm) (Java Spring, SQLite3)
+    - [Task Manager](https://github.com/pavel912/task_manager) (Java Spring, PostgreSQL)
+    - [Web Pages Analyzer](https://github.com/pavel912/web_analyzer) (Java, Javalin)
+    - [PSKK platform](https://github.com/pavel912/pskk) (Python, Flask)
+- CLI:
+    - [AST Calculator](https://github.com/pavel912/calculator) (Java)
+    - [JSON and YAML files comparator](https://github.com/pavel912/file_comparator) (Java)
+    - [Data Validator](https://github.com/pavel912/data_validater) (Java)
+    - [Web Pages Analyzer](https://github.com/pavel912/web_analyzer) (Java, Javalin)
 
 ### Hard skills:
 - Java
