@@ -16,7 +16,7 @@ At the moment I am looking for a job or internship as Backend Software Engineer.
     - Developed RESTful API with Java Spring Framework and PostgreSQL
 
 ### Selected Projects:
--Web Applications / APIs:
+- Web Applications / APIs:
     - [Logistics Management System (In progress)](https://github.com/pavel912/LogaRithm) (Java Spring, SQLite3)
     - [Task Manager](https://github.com/pavel912/task_manager) (Java Spring, PostgreSQL)
     - [Web Pages Analyzer](https://github.com/pavel912/web_analyzer) (Java, Javalin)
